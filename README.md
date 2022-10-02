@@ -55,6 +55,7 @@ We have Zomata Data containing detailed information of partenered restaurants in
 - Around 2148 records have 0 ratings.
 - Maximum number of zero ratings are from Indian customers.
 - Online deliveries are available in India and UAE In India and UAE, some areas online delivery is not there.
+- North Indian Cuisines has most number of records followed by Chinese Cuisines.
 - When rating is between 4.5 to 4.9 ---> Excellent.
 - When rating is between 4.0 to 4.4 ---> Very Good.
 - When rating is between 3.5 to 3.9 ---> Good.
