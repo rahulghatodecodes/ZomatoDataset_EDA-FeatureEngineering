@@ -1,6 +1,6 @@
 # Zomato Data
 
-## Overview
+## Overview:
 We have Zomata Data containing detailed information of partenered restaurants in different countries. The dataframe contains of different variables which we will be working on are mentioned below:
 - Restaurant ID	
 - Restaurant Name	
@@ -18,14 +18,14 @@ We have Zomata Data containing detailed information of partenered restaurants in
 - Rating text	
 - Votes
 
-## Objective
+## Objective:
 - Perform Exploratory Data Analysis and Feature Engineering
 
-## Programming Language & Tools
+## Programming Language & Tools:
 - Python 
 - Jupyter Notebook
 
-## Tasks
+## Tasks:
 - Checked the basic measures of descriptive statistics.
 - Checked missing values, missing values using.
 - Combined two dataframes w.r.t country code.
